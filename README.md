@@ -9,4 +9,4 @@ A school district data, having 15 high schools and 39170 students from 9th grade
     Fig. 1. District Summary (before)
     
     ![district summary after] (Resources/district_summary_after.png)
-    Fig. 2. District Summary (after)
+    Fig. 2. District Summary (after) 
