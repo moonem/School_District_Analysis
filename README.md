@@ -31,7 +31,7 @@ A school district data, having 15 high schools and 39170 students from 9th grade
 
  * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
-    ![math_reading before](/Resources/math_reading_by_grade_before.png)(/Resources/math_reading_by_grade_after.png)
+ ![math_reading before](/Resources/math_reading_by_grade_before.png)![after](/Resources/math_reading_by_grade_after.png)
     
     Fig. 5. *Math* and *Reading* scores (left) - before, (right) - after replacing the 9th grade scores.
     
