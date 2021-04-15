@@ -1,5 +1,5 @@
 # School District Analysis
-A school district data, having 15 high schools and 39170 students from 9th grade to 12th grade, has been analyzed to retrieve the ditrict summary and school summary based on the average *math* and *reading* scores based on *spending per student*, *school size* and *school type* (e.g., charter or district schools).
+A school district data, having 15 high schools and 39170 students from 9th grade to 12th grade, has been analyzed to retrieve the district summary and school summary based on the average *math* and *reading* scores based on *spending per student*, *school size* and *school type* (e.g., charter or district schools).
 
 ## Results
   * How is the district summary affected?
